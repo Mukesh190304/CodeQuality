@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaManagementSystemWebservice", "CaptchaManagementSystemWebservice\CaptchaManagementSystemWebservice.csproj", "{233EA113-9E84-4B31-BF98-E3FAF9BC4DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233EA113-9E84-4B31-BF98-E3FAF9BC4DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233EA113-9E84-4B31-BF98-E3FAF9BC4DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233EA113-9E84-4B31-BF98-E3FAF9BC4DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233EA113-9E84-4B31-BF98-E3FAF9BC4DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D8EFCC-6ED4-4230-A02F-1DB3458DC584}
+	EndGlobalSection
+EndGlobal
